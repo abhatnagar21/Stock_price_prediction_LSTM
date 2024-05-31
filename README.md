@@ -26,3 +26,5 @@ Inverse Transformation: The predictions are concatenated with zeros for the addi
 
 Improved Plotting Logic:
 Matching Dimensions: Adjusted the plotting logic to ensure that the dimensions of the predictions match the corresponding date ranges, preventing shape mismatches.
+
+link for datasets:https://www.kaggle.com/competitions/jpx-tokyo-stock-exchange-prediction
